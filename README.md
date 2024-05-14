@@ -1,7 +1,8 @@
 # Ex04 Places Around Me
 
 ## Date : 14.05.2024
-
+## Name : Surya SK
+## Reg No:212222100052
 ## AIM
 To develop a website to display details about the places around my house.
 
@@ -209,7 +210,7 @@ Execute the programs and publish them.
 ![image](https://github.com/rahulramakrishnann/Exp-4-web/assets/143045415/3fbd2660-6e48-46ef-8c9d-a3c44e15bb6a)
 ![image](https://github.com/rahulramakrishnann/Exp-4-web/assets/143045415/50672aa3-d550-4255-bc90-c6f7e1664785)
 ![image](https://github.com/rahulramakrishnann/Exp-4-web/assets/143045415/937bdf81-7daf-43d5-8fee-d9b085624a8b)
-![image](https://github.com/rahulramakrishnann/Exp-4-web/assets/143045415/f5a71eac-37ab-49a8-96ee-f63640a2c297)
+
 
 
 
